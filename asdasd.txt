@@ -18,3 +18,7 @@ dsc
 sdc
 sdcsd
 c
+sdc
+sdcs
+dcdcccc
+dcsdcsc
